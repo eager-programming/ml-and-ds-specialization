@@ -1,0 +1,11 @@
+Вырезано из https://www.coursera.org/learn/mathematics-and-python/supplement/3y1zB/pandas-dataframe-ipython-notebook 
+
+ipython notebook, c которым мы работали на видео-уроке "Pandas. DataFrame" : 
+
+pandas_dataframe.ipynb 
+
+Для работы вам также понадобится файл, которые мы использовали для создания DataFrame из файла: 
+
+dataset.tsv 
+
+Обратите внимание! Для того, чтобы код работал без изменений, необходимо положить файл dataset.tsv в одну директорию с pandas_dataframe.ipynb. Из этой же директории нужно запустить ipython notebook. 
