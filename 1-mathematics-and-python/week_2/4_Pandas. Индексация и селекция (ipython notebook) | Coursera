@@ -1,0 +1,11 @@
+Вырезано из https://www.coursera.org/learn/mathematics-and-python/supplement/QpAap/pandas-indieksatsiia-i-sieliektsiia-ipython-notebook 
+
+ipython notebook, c которым мы работали на видео-уроке "Pandas. Индексация и селекция" : 
+
+pandas_indexing_selection.ipynb 
+
+Для работы вам также понадобится текстовый файл, который мы использовали для создания DataFrame: 
+
+data_sample_example.tsv 
+
+Обратите внимание! Для того, чтобы код работал без изменений, необходимо положить файл data_sample_example.tsv в одну директорию с pandas_indexing_selection.ipynb. Из этой же директории нужно запустить ipython notebook. 
